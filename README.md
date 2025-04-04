@@ -1,3 +1,3 @@
-# Java_Ginlike
-# Java_Ginlike
-# Java_Ginlike
+这是一个只是用Java原生库（最多使用MySQL的第三方依赖）的对于go语言中gin框架的拙劣的模仿。
+包括了radix树对于路由的解析，提供了Jwt的生成方法，sha256的加密方法，线程池的使用等。
+目的在于让开发者对于Java后端的简易开发和快速开发。
